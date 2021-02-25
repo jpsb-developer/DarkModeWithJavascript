@@ -2,7 +2,7 @@
 <h2 align="center">Transforming from light to dark theme using Javascript</h2>
 <br>
 <div align="center">
-    <img width="700px" src="./images/DarkModePreview.wmv" alt="Gif DarkMode">
+    <img width="700px" src="./images/DarkModePreview.gif" alt="Gif DarkMode">
 </div>
 
 
